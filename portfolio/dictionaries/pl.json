@@ -1,0 +1,159 @@
+{
+  "mainNavbar": {
+    "about": "O mnie",
+    "projects": "Projekty",
+    "contact": "Kontakt"
+  },
+  "about": {
+    "title": "O MNIE",
+    "content1": "Web developer z",
+    "span": "dużym doświadczeniem",
+    "content2": "w technologiach front-end i back-end, tworzący responsywne i dynamiczne strony internetowe"
+  },
+  "whatIDo": {
+    "title": "CO ROBIE",
+    "content": {
+      "responsive": {
+        "title": "RESPONSYWNOŚĆ",
+        "content": "Projektowanie responsywnych interfejsów, zapewniających optymalne doświadczenie użytkownika na każdym urządzeniu"
+      },
+      "html": "Znajomość tworzenia czytelnego kodu HTML i CSS w celu osiągnięcia precyzyjnych projektów i utrzymania spójnego stylowania",
+      "js": "Tworzenie interaktywnych i dynamicznych elementów witryny przy użyciu nowoczesnych bibliotek i frameworków JavaScript",
+      "dev": {
+        "title": "PUBLIKOWANIE",
+        "content": "Biegłość w publikowaniu, zapewniając optymalne doświadczenia użytkownika na różnych urządzeniach"
+      },
+      "test": {
+        "title": "TESTOWANIE",
+        "content": "Zabezpieczanie spójnej funkcjonalności i wyglądu poprzez testowanie i debugowanie w różnych przeglądarkach"
+      }
+    }
+  },
+  "exp": {
+    "title": "DOŚWIADCZENIE",
+    "content1": "Z",
+    "span": "pasją",
+    "content2": "do przekształcania koncepcji w interaktywne rzeczywistości, dostarczam innowacje i funkcjonalność do każdego projektu"
+  },
+  "myProjects": "Moje Projekty",
+  "idea": {
+    "content1": "MASZ",
+    "span": "POMYSŁ",
+    "content2": "PODYSKUTUJMY"
+  },
+  "phone": "TELEFON",
+  "navbar": {
+    "dashboard": "Panel",
+    "users": "Użytkownicy",
+    "posts": "Posty",
+    "reviews": "Opinie",
+    "newsletter": "Newsletter",
+    "analytics": "Analityka",
+    "logs": "Logi",
+    "playground": "Playground",
+    "settings": "Ustawienia",
+    "logout": "Wyloguj",
+    "main": "Główna"
+  },
+  "dashboard": {
+    "title": "Witaj",
+    "description": "Panel",
+    "today": "Dzisiaj",
+    "yesterday": "Wczoraj",
+    "post": {
+      "title": "Najnowszy Post"
+    },
+    "review": {
+      "title": "Najnowsza Recenzja"
+    },
+    "user": {
+      "title": "Nowy Użytkownik"
+    },
+    "generalData": {
+      "visitors": "UNIKALNI ODWIEDZAJĄCY",
+      "pageviews": "WSZYSTKIE ODSŁONY",
+      "br": "WSPÓŁCZYNNIK ODRZUCEŃ"
+    },
+    "visitors": {
+      "title": "Odwiedzający"
+    }
+  },
+  "users": {
+    "title": "Użytkownicy",
+    "description": "Zarządzaj kontami użytkowników",
+    "playground": "Zobacz playground",
+    "search": "Wyszukaj...",
+    "noMore": "Brak kolejnych użytkowników do wyświetlenia",
+    "table": {
+      "username": "Login",
+      "email": "Email",
+      "createdAt": "Data Utworzenia",
+      "role": "Rola"
+    },
+    "confirm": {
+      "titleRole": "Czy na pewno chcesz zmienić rolę tego użytkownika?",
+      "titleDelete": "Czy na pewno chcesz usunąć tego użytkownika?",
+      "confirm": "Potwierdź",
+      "cancel": "Anuluj"
+    },
+    "newUser": {
+      "title": "Dodaj nowe konto",
+      "username": "Login",
+      "email": "Email",
+      "password": "Hasło",
+      "confirm": "Stwórz"
+    }
+  },
+  "posts": {
+    "title": "Posty",
+    "description": "Dodaj treść do swojej strony",
+    "playground": "Zobacz playground",
+    "search": "Wyszukaj...",
+    "noMore": "Brak kolejnych postów do wyświetlenia",
+    "new": "Nowy post",
+    "table": {
+      "image": "Zdjęcie",
+      "title": "Tytuł",
+      "author": "Autor",
+      "createdAt": "Data Utworzenia"
+    }
+  },
+  "analytics": {
+    "title": "Analytika",
+    "description": "Monitoruj wydajność witryny",
+    "generalData": {
+      "visitors": "UNIKALNI ODWIEDZAJĄCY",
+      "pageviews": "WSZYSTKIE ODSŁONY",
+      "br": "WSPÓŁCZYNNIK ODRZUCEŃ"
+    },
+    "visitors": {
+      "title": "Odwiedzający"
+    },
+    "countries": {
+      "title": "Kraje"
+    },
+    "devices": {
+      "title": "Urządzenia"
+    },
+    "pages": {
+      "title": "Najpopularniejsze"
+    }
+  },
+  "form": {
+    "title": "Tytuł",
+    "subject": "Temat",
+    "content": "Treść",
+    "edit": "Edytuj",
+    "create": "Stwórz",
+    "login": "Zaloguj się",
+    "register": "Założ konto",
+    "back": "Wróć",
+    "goToRegister": "Stwórz konto administratora",
+    "username": "Login",
+    "email": "Email",
+    "search": "Wyszukaj...",
+    "password": "Hasło",
+    "noMore": "Brak kolejnych postów do wyświetlenia",
+    "noMoreReview": "Brak opinii do wyświetlenia"
+  }
+}

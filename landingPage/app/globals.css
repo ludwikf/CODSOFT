@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-outline-primary {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #cca43b;
+  -webkit-text-fill-color: transparent;
+}
+
+.animate-slide-from-right {
+  animation: slideFromRight 0.7s alternate;
+}
+
+@keyframes slideFromRight {
+  from {
+    transform: translateX(110%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
